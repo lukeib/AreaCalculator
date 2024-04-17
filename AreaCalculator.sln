@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculator", "AreaCalculator\AreaCalculator.csproj", "{428798C7-3B53-465E-9177-FFD83F85A43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculatorLibrary", "AreaCalculator\AreaCalculatorLibrary.csproj", "{428798C7-3B53-465E-9177-FFD83F85A43B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAreaCalculator", "ConsoleAreaCalculator\ConsoleAreaCalculator.csproj", "{992B2FE0-F12D-4ED5-8CB9-BB47F0D1F396}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculator.Test", "AreaCalculator.Test\AreaCalculator.Test.csproj", "{9172B611-9A47-4919-AB9C-D4073DAFFC61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCalculatorLibrary.Test", "AreaCalculator.Test\AreaCalculatorLibrary.Test.csproj", "{9172B611-9A47-4919-AB9C-D4073DAFFC61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
